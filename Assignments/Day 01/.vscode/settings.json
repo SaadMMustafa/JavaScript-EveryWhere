@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "security.workspace.trust.untrustedFiles": "open",
+
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
+
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.proxy": {
+        "enable": false
+    },
+
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false
+}
