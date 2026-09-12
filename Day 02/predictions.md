@@ -12,4 +12,4 @@ console.log(Boolean("false"));
 console.log(Boolean([]));
 console.log(10 % 3);
 console.log(null + 1);
-console.log(undefined + 1);
+console.log(undefined + 1); //
