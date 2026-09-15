@@ -48,3 +48,11 @@ console.log("--------------");
 
 console.log(parseInt("42px"));
 console.log(Number("42px"));
+
+console.log("--------------");
+
+const array = [false, 0, -0, 0n, "", null, [], {}, "0", "hello"];
+
+console.log("--------------");
+
+let S = 0;
