@@ -63,11 +63,3 @@ for (const score of iyScores) {
         break;
 	}
 }
-
-console.log("———————————————————————————————————");
-
-let array = [21, 25, 74, 33, 45, 12, 36, 98, 100];
-
-for (let i = 0; i < array.length; i++) {
-	console.log(array[i]);
-};
